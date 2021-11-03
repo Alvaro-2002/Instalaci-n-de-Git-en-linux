@@ -23,3 +23,4 @@ __Output__
 ```
 git version 2.25.1
 ```
+![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
