@@ -48,4 +48,14 @@ usamos el siguiente comando para descargar la versión 2.29.3
 ```
 curl -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29.3.tar.gz
 ``` 
-![]()
+![](https://github.com/Alvaro-2002/Instalaci-n-de-Git-en-linux/blob/main/Imagenes/Captura%20de%20pantalla%20de%202021-11-03%2015-38-43.png)
+
+
+
+
+
+
+
+
+
+
