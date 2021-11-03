@@ -63,7 +63,7 @@ Podemos ver todos los elementos de configuración creados escribiendo lo siguien
 ```
 git config --list
 ```
-![]()
+![](https://github.com/Alvaro-2002/Instalaci-n-de-Git-en-linux/blob/main/Imagenes/Captura%20de%20pantalla%20de%202021-11-03%2015-44-22.png)
 
 
 
