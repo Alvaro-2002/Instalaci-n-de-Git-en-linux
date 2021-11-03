@@ -50,8 +50,20 @@ curl -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29
 ``` 
 ![](https://github.com/Alvaro-2002/Instalaci-n-de-Git-en-linux/blob/main/Imagenes/Captura%20de%20pantalla%20de%202021-11-03%2015-38-43.png)
 
+## Configuración de Git
+Para configarar nuestro Git usamos los siguientes comandos y añadimos nuestro nombre y correo
 
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+```
 
+Podemos ver todos los elementos de configuración creados escribiendo lo siguiente:
+
+```
+git config --list
+```
+![]()
 
 
 
